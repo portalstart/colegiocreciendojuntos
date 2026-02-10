@@ -7,6 +7,8 @@ tecnologia.camporeal@gmail.com
 
 Maestros:
 profesor de Ciencias Primaria	profe3@gmail.com
+profesor de Ciencias Primaria	Matematica Mat-101	6to - Sección A
+
 profesor de Tecnologia Secundaria	profesor@gmail.com
 
 
